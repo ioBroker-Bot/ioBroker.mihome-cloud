@@ -19,7 +19,7 @@ Adapter for all Mi Home Cloud devices. Connects to the Xiaomi Cloud API and prov
 
 ## Requirements
 
-- Node.js >= 20
+- Node.js >= 22
 - js-controller >= 6.0.11
 - Admin >= 7.6.20
 
